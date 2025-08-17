@@ -6,5 +6,3 @@ elif(x==0):
 else:
 	print("negative")
 
-
-
